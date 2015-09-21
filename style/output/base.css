@@ -1,0 +1,9 @@
+/*input file for base styles*/
+.test{
+    color:red;
+    background-color: #fff;
+    border: 1px solid blue;
+    display: flex;
+    width: 3.333em;
+    font-size: 14.444em;
+}
